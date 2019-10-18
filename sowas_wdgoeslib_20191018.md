@@ -34,3 +34,21 @@ output:
 
 ##
 ![](dbt2019_mit_wikidata_durch_den_bibbestand_ohneton.webm)
+
+## ok. and now?
+
+*so, that's nice but what's so new about it?*
+
+**can you query your local authority data in the same depth?**
+
+* locations (birth, death, work) can be easily retrieved by accessing through greater entities (if modelled)
+* received awards
+* and combine all the different properties?
+
+## be open
+
+**You can improve the discoverability as fast as you can type**
+
+*ok, so that's also open for wrong information*
+
+**It is, but at the same time it stays open for everyone (so also for our clients too) open to correct them**
